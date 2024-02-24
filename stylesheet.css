@@ -1,0 +1,68 @@
+body {
+   background-color:  hsl(47, 88%, 63%);
+   font-family: "Figtree", sans-serif;
+}
+
+.first-article {
+
+display: flex;
+justify-content: center;
+flex-direction: column;
+margin-left: 550px;
+margin-top: 120px;
+background-color: aliceblue;
+width: 365px;
+height: 550px ;
+border-radius: 15px;
+padding-left: 30px;
+border-style: solid;
+
+}
+
+.vector-illustration {
+    border-radius: 15px;
+}
+
+.learning {
+    background-color:hsl(47, 88%, 63%) ;
+    width: 70px;
+    padding-left: 7px;
+    padding-top: 5px;
+    border-radius: 5px;
+    height: 25px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.publishing-date {
+    font-size: 16px;
+    margin-top: -5px;
+}
+
+
+.first-headline {
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+.description {
+    font-size: 16px;
+    color: hsl(0, 0%, 50%);
+    margin-top: -10px;
+}
+
+
+.article-author {
+    font-size: 14px;
+    font-weight: bold;
+    max-width: 100px;
+    float: right;
+    margin-right: 230px;
+}
+
+.author-image {
+    width: 10%;
+    margin-top: 5px;
+
+}
